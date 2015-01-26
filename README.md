@@ -20,3 +20,6 @@ You are a new recruit at the Night's Watch, about to go on your first ranging be
 
 
 Jon Snow's favorite phrase is also a command, use at your own risk!
+
+This is the victory screen image in the code
+https://cloud.githubusercontent.com/assets/7525284/5908845/0e5c194a-a579-11e4-990c-63afeda6ff01.png
