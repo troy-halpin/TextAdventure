@@ -7,6 +7,9 @@ public class Item {
 	}
 }
 
+// Each item used to have it's own separate file, but given how small and similar they all are,
+// I just put them all into here
+
 public class BearMeat extends Item {
 	public static void use() {
 		GameMod.setUsedBearMeat(true);
